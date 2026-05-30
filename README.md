@@ -14,15 +14,15 @@ $ whoami
 > Kriti Sharma — SDET & AI Integration Engineer
 
 $ cat focus.txt
-> Test Automation · AI-Powered QA · API Testing · Quality Engineering
+> Playwright · TypeScript · Page Object Model · API Testing · AI-Powered QA · CI/CD
 
 $ run --tests all
-> ✓ 42 passed · 0 failed · 100% coverage 🚀
+> ✓ All passed · 0 failed · GitHub Actions green 🚀
 ```
 
 [![SDET](https://img.shields.io/badge/Role-SDET-%2300C897?style=for-the-badge&logo=testing-library&logoColor=white)](https://github.com/kritisharma136)
 [![AI Integration](https://img.shields.io/badge/AI-Integration-%23bc8cff?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/kritisharma136)
-[![API Testing](https://img.shields.io/badge/API-Automation-%2358a6ff?style=for-the-badge&logo=postman&logoColor=white)](https://github.com/kritisharma136)
+[![Playwright](https://img.shields.io/badge/Playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://github.com/kritisharma136/career-flow-qa)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Opportunities-%E2%9C%85-3fb950?style=for-the-badge)](mailto:your@email.com)
 
 [![GitHub followers](https://img.shields.io/github/followers/kritisharma136?label=Follow&style=social)](https://github.com/kritisharma136)
@@ -34,13 +34,13 @@ $ run --tests all
 
 ## `$ cat about.md`
 
-I'm a **Software Development Engineer in Test (SDET)** with a passion for building robust test automation frameworks and integrating **AI/LLMs into QA pipelines**. I believe quality engineering should be intelligent, scalable, and proactive — not an afterthought.
+I'm a **Software Development Engineer in Test (SDET)** who builds intelligent, scalable test automation frameworks and integrates **AI tools into the QA workflow**. I care about quality at every layer — from unit tests to full E2E pipelines with CI/CD.
 
-- 🤖 &nbsp;Building **AI-powered test automation** tools using LLMs and OpenAI API
-- 🎭 &nbsp;Designing **E2E, API, and mobile test frameworks** from scratch
-- 🧠 &nbsp;Exploring **self-healing tests**, AI-based bug triage, and LLM test generation
-- 🔁 &nbsp;Passionate about **CI/CD pipelines** and shift-left quality practices
-- 💬 &nbsp;Ask me about **Playwright, Selenium, API testing, or AI in QA**
+- 🎭 &nbsp;Building **E2E automation** with Playwright + TypeScript using Page Object Model
+- 🤖 &nbsp;Using **AI (ChatGPT, GitHub Copilot)** to accelerate test coverage, edge-case discovery & refactoring
+- 🔁 &nbsp;Integrating tests into **GitHub Actions CI/CD** pipelines for every push
+- 📮 &nbsp;Designing **API test strategies** with assertion-driven validations
+- 💬 &nbsp;Ask me about **Playwright, POM design, flaky test fixes, or AI in QA**
 
 ---
 
@@ -49,52 +49,61 @@ I'm a **Software Development Engineer in Test (SDET)** with a passion for buildi
 **Test Automation**
 
 ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![REST Assured](https://img.shields.io/badge/REST%20Assured-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-**AI & Integration**
+**AI & Productivity**
 
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%23000000.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+**CI/CD & Tools**
+
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-**Reporting & Tools**
-
-![Allure](https://img.shields.io/badge/Allure%20Report-%23FF4785?style=for-the-badge&logo=qase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![JIRA](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## `$ git log --oneline featured-projects`
 
-### 🛍️ [Shopify Test Suite](https://github.com/kritisharma136/Shopify)
-> Automated test framework for a Shopify mobile application — covers UI flows, edge cases, and regression testing built with **Dart**.
+### 🎭 [career-flow-qa](https://github.com/kritisharma136/career-flow-qa) — *Flagship Project*
 
-`Dart` · `Mobile QA` · `Test Automation`
+> End-to-end Playwright automation framework built with **TypeScript** and **Page Object Model (POM)** design pattern. Covers full user flows (login → product validation → cart → logout) and negative scenarios with assertion-based validations. CI/CD integrated via **GitHub Actions**.
+
+**What makes it stand out:**
+- 🧩 &nbsp;POM architecture — clean separation of page interactions from test logic
+- ✅ &nbsp;Positive & negative test coverage with robust synchronization handling
+- 🤖 &nbsp;Used **ChatGPT** for edge-case brainstorming & **GitHub Copilot** for locator suggestions and refactoring
+- 🔁 &nbsp;Automated pipeline triggers on every push to `main`
+- 🩺 &nbsp;Identified and fixed flaky synchronization issues in negative login flow
+
+`TypeScript` · `Playwright` · `POM` · `GitHub Actions` · `Node.js` · `AI-Assisted`
 
 ---
 
-### 🌐 [Flone E2E Tests](https://github.com/kritisharma136/flone.github.io)
-> End-to-end visual and functional tests for a CSS e-commerce storefront — layout validation, responsiveness checks, and cross-browser coverage.
+### 🛍️ [Shopify App](https://github.com/kritisharma136/Shopify)
 
-`CSS` · `HTML` · `E2E Testing` · ⭐ 1
+> Mobile application built with Dart covering e-commerce UI flows and test scenarios.
+
+`Dart` · `Mobile` · `UI Testing`
 
 ---
 
-### 🤖 AI Test Generator *(coming soon)*
-> LLM-powered tool that reads your codebase and auto-generates **Playwright test cases** using the OpenAI API — reducing test authoring time by 70%.
+### 🌐 [Flone Storefront](https://github.com/kritisharma136/flone.github.io)
 
-`Python` · `OpenAI API` · `Playwright` · `AI/ML`
+> Front-end e-commerce template — layout validation, responsiveness checks, and cross-browser coverage.
+
+`CSS` · `HTML` · `Frontend QA` · ⭐ 1
 
 ---
 
@@ -120,16 +129,15 @@ I'm a **Software Development Engineer in Test (SDET)** with a passion for buildi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kritisharma136/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kritisharmaa136@gmail.com)
-
 </div>
 
 ---
 
 <div align="center">
 
-```js
-// Quality is not an act, it is a habit.
-assert.equal(bugs_in_prod, 0, "Breaking things so users don't have to. ✅");
+```ts
+// quality is not an afterthought.
+expect(bugs_in_prod).toBe(0); // ✅ always passing
 ```
 
 </div>
